@@ -9,7 +9,7 @@
     "i2c"
   ],
   "dependencies": {
-    "async": "1.*",
+    "async": "3.2.2",
     "buffertools": "2.1.*",
     "i2c-bus": "1.*",
     "npmlog": "2.*",
